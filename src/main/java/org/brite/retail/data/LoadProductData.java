@@ -1,6 +1,6 @@
-package org.bee.retail.data;
+package org.brite.retail.data;
 
-import org.bee.retail.product.Product;
+import org.brite.retail.product.Product;
 import org.springframework.stereotype.Component;
 
 import java.util.HashMap;

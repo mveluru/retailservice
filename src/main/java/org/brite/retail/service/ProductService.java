@@ -1,7 +1,7 @@
-package org.bee.retail.service;
+package org.brite.retail.service;
 
-import org.bee.retail.product.Product;
-import org.bee.retail.repository.ProductRepository;
+import org.brite.retail.product.Product;
+import org.brite.retail.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

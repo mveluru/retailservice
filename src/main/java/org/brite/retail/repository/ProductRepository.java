@@ -1,7 +1,7 @@
-package org.bee.retail.repository;
+package org.brite.retail.repository;
 
-import org.bee.retail.data.LoadProductData;
-import org.bee.retail.product.Product;
+import org.brite.retail.data.LoadProductData;
+import org.brite.retail.product.Product;
 
 import org.springframework.stereotype.Repository;
 

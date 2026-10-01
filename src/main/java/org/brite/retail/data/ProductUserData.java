@@ -1,4 +1,4 @@
-package org.bee.retail.data;
+package org.brite.retail.data;
 
 import lombok.Getter;
 import lombok.Setter;

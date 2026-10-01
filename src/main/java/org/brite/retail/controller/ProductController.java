@@ -1,8 +1,8 @@
-package org.bee.retail.controller;
+package org.brite.retail.controller;
 
-import org.bee.retail.product.Product;
-import org.bee.retail.service.ProductService;
-import org.bee.retail.webclient.ProductUserWebClient;
+import org.brite.retail.product.Product;
+import org.brite.retail.service.ProductService;
+import org.brite.retail.webclient.ProductUserWebClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

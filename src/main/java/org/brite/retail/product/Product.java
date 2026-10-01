@@ -1,4 +1,4 @@
-package org.bee.retail.product;
+package org.brite.retail.product;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.lang.NonNull;

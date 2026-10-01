@@ -1,9 +1,9 @@
-package org.bee.configs;
+package org.brite.configs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "org.bee.retail")
+@SpringBootApplication(scanBasePackages = "org.brite.retail")
 public class RetailServiceApplication {
 
     public static void main(String[] args) {
